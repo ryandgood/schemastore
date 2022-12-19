@@ -898,7 +898,7 @@
         {
           "description": "https://circleci.com/docs/using-orbs#commands\n\nA custom command defined via an orb.",
           "type": "string",
-          "pattern": "^[a-z][a-z0-9_-]+/[a-z][a-z0-9_-]+$"
+          "pattern": "^[a-z][a-z0-9_-]+\/[a-z][a-z0-9_-]+$"
         },
         {
           "type": "object",
